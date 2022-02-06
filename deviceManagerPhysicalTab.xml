@@ -1,0 +1,30 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-TSUGKVROGEGQOJZP-0iDQo2._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-06T15:31:43.209990100Z" />
+        <name value="realme RMX2117" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="TSUGKVROGEGQOJZP" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-06T15:31:30.914270400Z" />
+        <name value="realme RMX2117" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
