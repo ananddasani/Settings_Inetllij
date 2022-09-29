@@ -7,6 +7,12 @@
   <action id="ActivateAndroidEmulatorToolWindow">
     <keyboard-shortcut first-keystroke="alt e" />
   </action>
+  <action id="ActivateBuildToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Down" />
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
@@ -47,6 +53,9 @@
     <mouse-shortcut keystroke="button2" />
   </action>
   <action id="GotoFile" />
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -86,7 +95,6 @@
   </action>
   <action id="QuickImplementations" />
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl a" />
   </action>
   <action id="RunDashboard.CopyConfiguration" />
