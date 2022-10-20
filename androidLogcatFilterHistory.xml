@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="ERROR" />
     <option name="nonFavorites">
       <list>
+        <option value="ERROR" />
         <option value="package:mine" />
         <option value="MODEL_PDF" />
         <option value="MODEL" />
