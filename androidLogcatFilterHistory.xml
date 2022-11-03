@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="RESPONSE" />
         <option value="package:mine" />
+        <option value="RESPONSE" />
         <option value="package:mine " />
         <option value="ERROR" />
         <option value="MODEL_PDF" />
