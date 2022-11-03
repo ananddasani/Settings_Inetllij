@@ -1,9 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="RESPONSE" />
     <option name="nonFavorites">
       <list>
-        <option value="RESPONSE" />
         <option value="package:mine" />
+        <option value="RESPONSE" />
         <option value="package:mine " />
         <option value="ERROR" />
         <option value="MODEL_PDF" />
