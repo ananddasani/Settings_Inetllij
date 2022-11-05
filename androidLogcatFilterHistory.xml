@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="nonFavorites">
       <list>
-        <option value="SPACE" />
         <option value="package:mine" />
+        <option value="SPACE" />
         <option value="OPEN" />
         <option value="RESPONSE" />
         <option value="package:mine " />
